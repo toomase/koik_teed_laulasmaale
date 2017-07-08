@@ -1,2 +1,2 @@
 # koik_teed_laulasmaale
-Kaart, kus kõik teed viivad Laulasmaale
+Kaart, kus kõik teed viivad ühte asukohta Eestis (Laulasmaa ja Paenasti).
